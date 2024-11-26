@@ -1,6 +1,6 @@
-# Beecrowd Java Exercises
+# Beecrowd Java Exercises & ChatGPT Java Exercises 
 
-Este repositório contém exercícios de **Lógica de Programação** e **Algoritmos** realizados através da plataforma [BeeCrowd](https://www.beecrowd.com.br) utilizando a linguagem **Java**.
+Este repositório contém exercícios de **Lógica de Programação** e **Algoritmos** realizados através da plataforma [BeeCrowd](https://www.beecrowd.com.br) utilizando a linguagem **Java** e adicionado atualmente exercícios elaborados pelo ChatGPT para desempenhar mais minha lógica.
 
 ## 📚 Sobre
 
